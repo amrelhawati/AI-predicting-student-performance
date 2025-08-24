@@ -1,2 +1,2 @@
 # AI-predicting-student-performance
-This piece of code uses 3 ML concepts: Logistic regression, random forest, and gradient boosting to predict 
+This piece of code uses 3 ML concepts: Logistic regression, random forest, and gradient boosting to predict student academic performance based on several important factors. This includes study tiem, family, past academic performance, etc... to determine whether or not that student will pass or fail. It accurately compares the 3 traditional concepts to see which is the most precise in its calculation. 
